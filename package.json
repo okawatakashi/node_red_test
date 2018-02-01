@@ -1,0 +1,12 @@
+{
+    "name": "node_red_test",
+    "description": "Node-REDコミットテスト用",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_CXOAPC17105061.json",
+            "credentialsFile": "flows_CXOAPC17105061_cred.json"
+        }
+    }
+}
